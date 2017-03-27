@@ -7,15 +7,15 @@ permalink: /about/index.html
 
 ## Introduction
 
-现在是一名大三学生，两年来接触过[Skills](#skills)中列举的一些领域，了解相关的基础语法。现在学校数据挖掘兴趣小组学习中, 打算以后往Java研发方向学习, 研究Java更加核心的东西、更加底层的原理。
-
+现在是一名大三学生，两年来接触过[Skills](#skills)中列举的一些领域，了解相关的基础语法。现在学校数据挖掘兴趣小组中学习中，努力寻找自己喜欢的方向。
 <p style="text-align:right">2016/10/02</p>
 
 ## Skills
 
-- C++
+
 - Java
 - python
+- C++
 - MySQL
 - GitHub
 - Git
@@ -24,13 +24,4 @@ permalink: /about/index.html
 - Javascript
 - 机器学习
 - 数据挖掘
-
-<!-- 
-<h2>Projects</h2>
-
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul>
- -->
+- 自然语言处理
